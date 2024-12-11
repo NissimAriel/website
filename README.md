@@ -2,7 +2,7 @@
 
 Now updating on update-readme branch 
 
-Edit in example branch
+Update locally
 
 You can use the [editor on GitHub](https://github.com/wssdll/initializr/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
