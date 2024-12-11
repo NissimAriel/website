@@ -2,7 +2,7 @@
 
 Updates made on GitHub before rebase 
 
-Update locally
+Thus file is just a readme file
 
 You can use the [editor on GitHub](https://github.com/wssdll/initializr/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
