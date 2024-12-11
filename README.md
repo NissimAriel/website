@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Now updating on update-readme branch 
+Updates made on GitHub before rebase 
 
 Update locally
 
